@@ -1,0 +1,1404 @@
+fileFormatVersion: 2
+guid: 32de671f101f6194096a6d8b0870aae3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8216961551104998816
+    second: Simple-Platformer-Tileset-Pixel-Art3_0
+  - first:
+      213: -1981192823250432363
+    second: Simple-Platformer-Tileset-Pixel-Art3_1
+  - first:
+      213: 809602423917747711
+    second: Simple-Platformer-Tileset-Pixel-Art3_2
+  - first:
+      213: -8890508188304002313
+    second: Simple-Platformer-Tileset-Pixel-Art3_3
+  - first:
+      213: -4476627011903373201
+    second: Simple-Platformer-Tileset-Pixel-Art3_4
+  - first:
+      213: 6034673732990875301
+    second: Simple-Platformer-Tileset-Pixel-Art3_5
+  - first:
+      213: -436485484601384131
+    second: Simple-Platformer-Tileset-Pixel-Art3_6
+  - first:
+      213: 9179901091777021888
+    second: Simple-Platformer-Tileset-Pixel-Art3_7
+  - first:
+      213: -6415140943647987397
+    second: Simple-Platformer-Tileset-Pixel-Art3_8
+  - first:
+      213: -2238334815509315564
+    second: Simple-Platformer-Tileset-Pixel-Art3_9
+  - first:
+      213: 2886307800374950663
+    second: Simple-Platformer-Tileset-Pixel-Art3_10
+  - first:
+      213: 2953413188859684086
+    second: Simple-Platformer-Tileset-Pixel-Art3_11
+  - first:
+      213: -3421822192738352327
+    second: Simple-Platformer-Tileset-Pixel-Art3_12
+  - first:
+      213: 4169236289887787905
+    second: Simple-Platformer-Tileset-Pixel-Art3_13
+  - first:
+      213: -6480307824758314427
+    second: Simple-Platformer-Tileset-Pixel-Art3_14
+  - first:
+      213: 695198707401665607
+    second: Simple-Platformer-Tileset-Pixel-Art3_15
+  - first:
+      213: 354708980902981062
+    second: Simple-Platformer-Tileset-Pixel-Art3_16
+  - first:
+      213: -6340508027153127148
+    second: Simple-Platformer-Tileset-Pixel-Art3_17
+  - first:
+      213: -5234382961786118789
+    second: Simple-Platformer-Tileset-Pixel-Art3_18
+  - first:
+      213: -6215919153963704764
+    second: Simple-Platformer-Tileset-Pixel-Art3_19
+  - first:
+      213: 8006504415196097271
+    second: Simple-Platformer-Tileset-Pixel-Art3_20
+  - first:
+      213: 7930138895502970699
+    second: Simple-Platformer-Tileset-Pixel-Art3_21
+  - first:
+      213: -4749370257732974866
+    second: Simple-Platformer-Tileset-Pixel-Art3_22
+  - first:
+      213: 4799978645261924337
+    second: Simple-Platformer-Tileset-Pixel-Art3_23
+  - first:
+      213: 209871233810998599
+    second: Simple-Platformer-Tileset-Pixel-Art3_24
+  - first:
+      213: -8595031256440463645
+    second: Simple-Platformer-Tileset-Pixel-Art3_25
+  - first:
+      213: 3210567269815678775
+    second: Simple-Platformer-Tileset-Pixel-Art3_26
+  - first:
+      213: 1577895459557135329
+    second: Simple-Platformer-Tileset-Pixel-Art3_27
+  - first:
+      213: 9176117883632951874
+    second: Simple-Platformer-Tileset-Pixel-Art3_28
+  - first:
+      213: -8275393272973678793
+    second: Simple-Platformer-Tileset-Pixel-Art3_29
+  - first:
+      213: 4492098812944998284
+    second: Simple-Platformer-Tileset-Pixel-Art3_30
+  - first:
+      213: 1535859209496532662
+    second: Simple-Platformer-Tileset-Pixel-Art3_31
+  - first:
+      213: 2576529724889820743
+    second: Simple-Platformer-Tileset-Pixel-Art3_32
+  - first:
+      213: 2835113101505424838
+    second: Simple-Platformer-Tileset-Pixel-Art3_33
+  - first:
+      213: 7702235395226964230
+    second: Simple-Platformer-Tileset-Pixel-Art3_34
+  - first:
+      213: -8410061341306623143
+    second: Simple-Platformer-Tileset-Pixel-Art3_35
+  - first:
+      213: -4717914836118130876
+    second: Simple-Platformer-Tileset-Pixel-Art3_36
+  - first:
+      213: -4015780806553505006
+    second: Simple-Platformer-Tileset-Pixel-Art3_37
+  - first:
+      213: -4096908812299485772
+    second: Simple-Platformer-Tileset-Pixel-Art3_38
+  - first:
+      213: -6653920807907776761
+    second: Simple-Platformer-Tileset-Pixel-Art3_39
+  - first:
+      213: 7681289232691361728
+    second: Simple-Platformer-Tileset-Pixel-Art3_40
+  - first:
+      213: -478828888252931759
+    second: Simple-Platformer-Tileset-Pixel-Art3_41
+  - first:
+      213: 5572054329655565718
+    second: Simple-Platformer-Tileset-Pixel-Art3_42
+  - first:
+      213: -383715839542887575
+    second: Simple-Platformer-Tileset-Pixel-Art3_43
+  - first:
+      213: -313457493189541223
+    second: Simple-Platformer-Tileset-Pixel-Art3_44
+  - first:
+      213: 4881075688020180632
+    second: Simple-Platformer-Tileset-Pixel-Art3_45
+  - first:
+      213: 7041269874786077418
+    second: Simple-Platformer-Tileset-Pixel-Art3_46
+  - first:
+      213: -7673485267792239279
+    second: Simple-Platformer-Tileset-Pixel-Art3_47
+  - first:
+      213: -3148140702918088987
+    second: Simple-Platformer-Tileset-Pixel-Art3_48
+  - first:
+      213: 6584031192751302914
+    second: Simple-Platformer-Tileset-Pixel-Art3_49
+  - first:
+      213: 8747271009111635089
+    second: Simple-Platformer-Tileset-Pixel-Art3_50
+  - first:
+      213: 1490055890684287163
+    second: Simple-Platformer-Tileset-Pixel-Art3_51
+  - first:
+      213: -3589293288514609473
+    second: Simple-Platformer-Tileset-Pixel-Art3_52
+  - first:
+      213: -5493033255809998144
+    second: Simple-Platformer-Tileset-Pixel-Art3_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 95
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 792
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adf7a2def2880270800000000000000
+      internalID: 8216961551104998816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 792
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59eca92cf936184e0800000000000000
+      internalID: -1981192823250432363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 792
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd99e67d194c3b00800000000000000
+      internalID: 809602423917747711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_3
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 792
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2307b18e19e9480800000000000000
+      internalID: -8890508188304002313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_4
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 792
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60c49b6373dfd1c0800000000000000
+      internalID: -4476627011903373201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_5
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 792
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a63d4e79c77fb350800000000000000
+      internalID: 6034673732990875301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_6
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 840
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3368bca3ca41f9f0800000000000000
+      internalID: -436485484601384131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_7
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 840
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c70790e76f856f70800000000000000
+      internalID: 9179901091777021888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_8
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 840
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b392cc5fc47d8f6a0800000000000000
+      internalID: -6415140943647987397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 648
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4108d213856dfe0e0800000000000000
+      internalID: -2238334815509315564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 648
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bb9c1f6a93e0820800000000000000
+      internalID: 2886307800374950663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 648
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f46fecb5a1acf820800000000000000
+      internalID: 2953413188859684086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_12
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 648
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933484568de3380d0800000000000000
+      internalID: -3421822192738352327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_13
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 648
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bdd6be05a1cd930800000000000000
+      internalID: 4169236289887787905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_14
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 648
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54aa8161e525116a0800000000000000
+      internalID: -6480307824758314427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 651
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74cacf28a87d5a900800000000000000
+      internalID: 695198707401665607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_16
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 651
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdec5550fd2ce400800000000000000
+      internalID: 354708980902981062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_17
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 651
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4196602fa8df108a0800000000000000
+      internalID: -6340508027153127148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 504
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d9160ed6cbb57b0800000000000000
+      internalID: -5234382961786118789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_19
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 504
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e527b767e9cb9a0800000000000000
+      internalID: -6215919153963704764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 504
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa2c586851dc1f60800000000000000
+      internalID: 8006504415196097271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_21
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 504
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f86fd4f438d0e60800000000000000
+      internalID: 7930138895502970699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_22
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 504
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee64501f9e8d61eb0800000000000000
+      internalID: -4749370257732974866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_23
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 504
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f73c408523fc9240800000000000000
+      internalID: 4799978645261924337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_24
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 507
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745a0e376cc99e200800000000000000
+      internalID: 209871233810998599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_25
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 507
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee9c765c9058b880800000000000000
+      internalID: -8595031256440463645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_26
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 507
+        width: 96
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737fbdcebe93e8c20800000000000000
+      internalID: 3210567269815678775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 360
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3da977f8fc5e510800000000000000
+      internalID: 1577895459557135329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 360
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2422d07199e185f70800000000000000
+      internalID: 9176117883632951874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 360
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7372fb3c9a5e72d80800000000000000
+      internalID: -8275393272973678793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_30
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 360
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f5a89f114275e30800000000000000
+      internalID: 4492098812944998284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_31
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 360
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b69d0f40d7705510800000000000000
+      internalID: 1535859209496532662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_32
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 360
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74eea4d322ca1c320800000000000000
+      internalID: 2576529724889820743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_33
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 360
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd69414858585720800000000000000
+      internalID: 2835113101505424838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_34
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 360
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60191f4a846d3ea60800000000000000
+      internalID: 7702235395226964230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_35
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 384
+        width: 96
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b6c2cb4c5794b80800000000000000
+      internalID: -8410061341306623143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 216
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f22a00479968eb0800000000000000
+      internalID: -4717914836118130876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 216
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213fb8902a41548c0800000000000000
+      internalID: -4015780806553505006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 216
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdb8bd342bd427c0800000000000000
+      internalID: -4096908812299485772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_39
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 216
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707a319774688a3a0800000000000000
+      internalID: -6653920807907776761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_40
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 216
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c7f9932cdb699a60800000000000000
+      internalID: 7681289232691361728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_41
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 216
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1512d7fb9abda59f0800000000000000
+      internalID: -478828888252931759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_42
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 216
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d1c4c04e9e35d40800000000000000
+      internalID: 5572054329655565718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_43
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 216
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bfa591a74ccaaf0800000000000000
+      internalID: -383715839542887575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_44
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 264
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992c04a121066abf0800000000000000
+      internalID: -313457493189541223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89efc3a2a701db340800000000000000
+      internalID: 4881075688020180632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_46
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 72
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea884615ad97b160800000000000000
+      internalID: 7041269874786077418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_47
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 72
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155ec080ecd428590800000000000000
+      internalID: -7673485267792239279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_48
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 72
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e66e93d5be8f44d0800000000000000
+      internalID: -3148140702918088987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_49
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 72
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20968027c7d2f5b50800000000000000
+      internalID: 6584031192751302914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_50
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 72
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194fb2443ac846970800000000000000
+      internalID: 8747271009111635089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_51
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 72
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb817bb10fdbda410800000000000000
+      internalID: 1490055890684287163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_52
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 72
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe946f55c4403ec0800000000000000
+      internalID: -3589293288514609473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple-Platformer-Tileset-Pixel-Art3_53
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 123
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2a9007b53d4c3b0800000000000000
+      internalID: -5493033255809998144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
